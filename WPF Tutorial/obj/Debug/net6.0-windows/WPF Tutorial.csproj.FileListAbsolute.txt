@@ -1,0 +1,23 @@
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\bin\Debug\net6.0-windows\WPF Tutorial.exe
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\bin\Debug\net6.0-windows\WPF Tutorial.deps.json
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\bin\Debug\net6.0-windows\WPF Tutorial.runtimeconfig.json
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\bin\Debug\net6.0-windows\WPF Tutorial.dll
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\bin\Debug\net6.0-windows\WPF Tutorial.pdb
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\WPF Tutorial_MarkupCompile.cache
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\WPF Tutorial_MarkupCompile.lref
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\WPF Tutorial.g.resources
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\WPF Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\WPF Tutorial.AssemblyInfoInputs.cache
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\WPF Tutorial.AssemblyInfo.cs
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\WPF Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\WPF Tutorial.dll
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\refint\WPF Tutorial.dll
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\WPF Tutorial.pdb
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\WPF Tutorial.genruntimeconfig.cache
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\ref\WPF Tutorial.dll
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\View\UserControls\MenuBar.g.cs
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ivz.M.M\source\repos\WPF Tutorial\WPF Tutorial\obj\Debug\net6.0-windows\View\UserControls\MenuBar.baml
